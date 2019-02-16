@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AzexCamp1</string>
+    <string name="mul_symbol">x</string>
+    <string name="equal">=</string>
+</resources>
